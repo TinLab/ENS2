@@ -1,4 +1,4 @@
-# ENS<sup>2</sup> ![GitHub](https://img.shields.io/github/license/tinlab/ens2) ![GitHub](https://img.shields.io/badge/version-0.3.0-green) ![](https://visitor-badge.glitch.me/badge?page_id=tinlab.ens2) ![GitHub](https://img.shields.io/github/downloads/tinlab/ens2/total)
+# ENS<sup>2</sup> ![GitHub](https://img.shields.io/github/license/tinlab/ens2) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/tinlab/ens2?color=success)![](https://visitor-badge.glitch.me/badge?page_id=tinlab.ens2) ![GitHub](https://img.shields.io/github/downloads/tinlab/ens2/total)
 
 **ENS<sup>2</sup>:** **E**ffective and **E**fficient **N**eural **N**etworks for **S**pike Inference from Calcium **S**ignal
 
@@ -47,7 +47,7 @@ Please refer to the following instructions on usage, or [Readme.doc](/Readme.doc
 > **Python** & **jupyter notebook**  
 > **PyTorch**: for deploying neural networks  
 > **NumPy** & **SciPy**: for scientific computing  
-> (required) **CUDA** and **cuDNN** toolkits for GPU support
+> (required) **CUDA** and **cuDNN** toolkits for GPU support  
 > (required) **MATLAB engine** for Python: for evaluating spike-event predictions in benchmark
 
 - **How to**: follow the demo as in [Benchmark_demo.ipynb](/Benchmark_demo.ipynb)
@@ -59,7 +59,7 @@ Please refer to the following instructions on usage, or [Readme.doc](/Readme.doc
 <br></br>
 
 ## Example inference results from ENS<sup>2</sup>:
-<img src="/saved_image/Examples.png" width="720px">
+![Workflow](/saved_image/Examples.png)
 <br></br>
 
 ## File structure:
