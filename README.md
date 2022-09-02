@@ -1,4 +1,4 @@
-# ENS<sup>2</sup> ![GitHub](https://img.shields.io/github/license/tinlab/ens2) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/tinlab/ens2?color=success) ![](https://visitor-badge.glitch.me/badge?page_id=tinlab.ens2) 
+# ENS<sup>2</sup> ![GitHub](https://img.shields.io/github/license/tinlab/ens2) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/tinlab/ens2?color=success) ![](https://visitor-badge.glitch.me/badge?page_id=tinlab.ens2) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/tinlab/ens2/latest/total)
 
 **ENS<sup>2</sup>:** **E**ffective and **E**fficient **N**eural **N**etworks for **S**pike Inference from Calcium **S**ignal
 
